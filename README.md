@@ -5,7 +5,7 @@ This tutorial refers to [ganbook]. I love car personaly, and then decided to use
 ![](https://media.giphy.com/media/3ohs4zS1i5ehRPny9O/giphy.gif)
 
 ## Dataset
-dataset is come from [stanford cars dataset]([stanford_cars_dataset]).
+dataset comes from [stanford cars dataset]([stanford_cars_dataset]).
 * [train]([data_1])
 * [test]([data_2])
 
